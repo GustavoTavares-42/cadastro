@@ -1,0 +1,37 @@
+form
+{
+   position: relative;
+   top: 50px;
+   margin: auto;
+   width: 400px;
+   height: 400px;
+   padding: 20px;
+   border-radius: 5px;
+   padding: 10px;
+   box-shadow: 5px 10px 10px 5px #888888;
+   background-color: rgb(32, 32, 32);
+    label, input
+    {
+        margin-top: 20px;
+        display: block;
+        width: 100%;
+        text-align: left;
+        border-radius: 5px;
+        border:none;
+        color: white;
+    }
+    input[type=submit]
+    {
+        height: 40px;
+        width: 100px;
+        text-align: center;
+        color: black;
+        background-color: white;
+        font-weight: bold;
+    }
+    input[type=text]
+    {
+        height: 20px;
+        color: black;
+    }
+}
