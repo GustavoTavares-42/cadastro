@@ -1,1 +1,1 @@
-Cadastro de pessoas feita por formulario ou import de arquivo csv
+Cadastro de pessoas por preenchimento do formulario ou import de arquivo csv
